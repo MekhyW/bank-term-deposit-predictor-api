@@ -5,3 +5,5 @@ seaborn
 missingno
 lightgbm
 scikit-learn
+fastapi
+uvicorn
