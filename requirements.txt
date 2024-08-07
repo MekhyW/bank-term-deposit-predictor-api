@@ -1,0 +1,7 @@
+pandas
+pickle
+matplotlib
+seaborn
+missingno
+lightgbm
+scikit-learn
